@@ -8,7 +8,7 @@
     <img src="images/main_activity.jpg" alt="Главный экран" height="400px"/>
   </a>
   <a href="images/settings_activity.jpg" >
-    <img src="images/main_activity.jpg" alt="Главный экран поиск" height="400px"/>
+    <img src="images/settings_activity.jpg" alt="Главный экран поиск" height="400px"/>
   </a>
 </div>
 Использованные библиотеки:
