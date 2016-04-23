@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Арифметическая тренировка</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О программе</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="how_to_use_main">Текст автоматически сменится, если вы введете правильное число</string>
+    <string name="show_timer_ro_ege">Показывать обратный отсчет до ЕГЭ</string>
+    <string name="show_ad">Показать рекламу(надо немного подождать после нажатия)</string>
+    <string name="remove_ad">Убрать рекламу</string>
+    <string name="answer">ответ</string>
+    <string name="congratulations">поздравляю вы и вправду гений</string>
+    <string name="week_to_ege">недели осталось до егэ</string>
+    <string name="statistics_this_day">Статистика за сегодня</string>
+    <string name="minute_count">мин</string>
+    <string name="multiply_count">чисел</string>
+    <string name="speed">м/ч</string>
+    <string name="speed_min_mult">скорость(мин/число)</string>
+    <string name="today">сегодня</string>
+    <string name="this_week">на этой неделе</string>
+    <string name="all_time">за все время</string>
+    <string name="i_am_genious">Я гений!!!</string>
+    <string name="mult3_3">Умножение трехзначных</string>
+    <string name="mult2_3">Умножение двухзначаного на трехзначное</string>
+    <string name="mult2_2">Умножение двухзначных чисел</string>
+    <string name="mult1_2">Умножение двухзначаного на однозначное</string>
+    <string name="mult20">Умножение до 20</string>
+    <string name="mult10">Умножение до 10</string>
+    <string name="tap_to_change_mode">нажмите несколько раз чтобы сменить режим</string>
+    <string name="title_activity_about">О программе</string>
+    <string name="about">Идея: Сергей Васильевич\nпрограммист: Дудко Влад</string>
+</resources>
