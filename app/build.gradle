@@ -16,10 +16,10 @@ android {
         }
 
         myConfig {
-            storeFile file("C:\\KeyStore_.jks")
-            storePassword "Fkjycbfkjycj16k"
+            storeFile file(key_store_path)
+            storePassword password
             keyAlias "Arithmetical training"
-            keyPassword "Fkjycbfkjycj16a"
+            keyPassword password
         }
     }
 
